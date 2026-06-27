@@ -41,7 +41,7 @@ The lab walks through locating installed applications, installing software from 
 
 Opened Windows Installed Apps and reviewed currently installed software.
 
-![Installed Applications](screenshots/01-installed-apps.png)
+![Installed Applications](screenshot/01-installed-apps.png)
 
 ---
 
@@ -49,7 +49,7 @@ Opened Windows Installed Apps and reviewed currently installed software.
 
 Reviewed Windows Apps settings and available application management features.
 
-![Apps Features](screenshots/02-apps-features.png)
+![Apps Features](screenshot/02-apps-features.png)
 
 ---
 
@@ -57,7 +57,7 @@ Reviewed Windows Apps settings and available application management features.
 
 Installed Spotify from the Microsoft Store.
 
-![Install New Application](screenshots/03-install-new-application.png)
+![Install New Application](screenshot/03-install-new-application.png)
 
 ---
 
@@ -65,7 +65,7 @@ Installed Spotify from the Microsoft Store.
 
 Reviewed the application's Repair, Reset, and Uninstall options.
 
-![Application Repair Options](screenshots/04-app-repair-options.png)
+![Application Repair Options](screenshot/04-app-repair-options.png)
 
 ---
 
@@ -73,7 +73,7 @@ Reviewed the application's Repair, Reset, and Uninstall options.
 
 Reviewed Windows Default Apps configuration.
 
-![Default Applications](screenshots/05-default-apps.png)
+![Default Applications](screenshot/05-default-apps.png)
 
 ---
 
@@ -81,7 +81,7 @@ Reviewed Windows Default Apps configuration.
 
 Verified the application installed successfully and was ready to launch.
 
-![Software Installed](screenshots/06-software-installed.png)
+![Software Installed](screenshot/06-software-installed.png)
 
 ---
 
@@ -89,7 +89,7 @@ Verified the application installed successfully and was ready to launch.
 
 Verified Spotify appears in the Installed Apps list.
 
-![Installed App Verification](screenshots/07-install-app-verification.png)
+![Installed App Verification](screenshot/07-install-app-verification.png)
 
 ---
 
@@ -97,7 +97,7 @@ Verified Spotify appears in the Installed Apps list.
 
 Completed the software installation troubleshooting lab.
 
-![Project Complete](screenshots/08-project-final.png)
+![Project Complete](screenshot/08-project-final.png)
 
 ---
 
