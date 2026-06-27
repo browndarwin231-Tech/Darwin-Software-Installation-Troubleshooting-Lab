@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project demonstrates a common Windows 11 Help Desk troubleshooting scenario involving software installation, application management, repair, and removal.
+This project demonstrates a common Windows 11 Help Desk troubleshooting scenario involving software installation and application management.
 
-The lab walks through reviewing installed applications, managing application settings, installing software, repairing applications, configuring default apps, uninstalling software, and documenting common troubleshooting procedures performed by Help Desk technicians.
+The lab walks through locating installed applications, installing software from the Microsoft Store, verifying successful installation, reviewing application repair options, configuring default applications, and confirming the application is available to end users.
 
 ---
 
@@ -12,12 +12,13 @@ The lab walks through reviewing installed applications, managing application set
 
 - Windows 11 Administration
 - Software Installation
-- Application Management
-- Software Repair
-- Software Uninstallation
-- Default Applications
-- Windows Settings
+- Microsoft Store Management
 - Help Desk Troubleshooting
+- Application Verification
+- Application Repair
+- Application Reset
+- Default App Configuration
+- Software Management
 - Technical Documentation
 - End-User Support
 
@@ -26,13 +27,11 @@ The lab walks through reviewing installed applications, managing application set
 ## Tools Used
 
 - Windows 11
+- Microsoft Store
 - Windows Settings
 - Installed Apps
-- Apps & Features
-- Microsoft Store
 - Default Apps
-- Start Menu
-- Control Panel
+- Application Repair Settings
 
 ---
 
@@ -40,112 +39,92 @@ The lab walks through reviewing installed applications, managing application set
 
 ## 1. Installed Applications
 
-Reviewed installed applications to verify software installation and availability.
+Opened Windows Installed Apps and reviewed currently installed software.
 
 ![Installed Applications](screenshots/01-installed-apps.png)
 
 ---
 
-## 2. Apps & Features
+## 2. Apps Features
 
-Reviewed installed applications and available management options in Windows Settings.
+Reviewed Windows Apps settings and available application management features.
 
-![Apps & Features](screenshots/02-apps-features.png)
+![Apps Features](screenshots/02-apps-features.png)
 
 ---
 
 ## 3. Install New Application
 
-Demonstrated installing an application using Microsoft Store or another trusted software source.
+Installed Spotify from the Microsoft Store.
 
 ![Install New Application](screenshots/03-install-new-application.png)
 
 ---
 
-## 4. Application Repair
+## 4. Application Repair Options
 
-Reviewed Windows repair and reset options used to troubleshoot application issues.
+Reviewed the application's Repair, Reset, and Uninstall options.
 
-![Application Repair](screenshots/04-app-repair-options.png)
+![Application Repair Options](screenshots/04-app-repair-options.png)
 
 ---
 
 ## 5. Default Applications
 
-Reviewed Windows default application settings and file associations.
+Reviewed Windows Default Apps configuration.
 
 ![Default Applications](screenshots/05-default-apps.png)
 
 ---
 
-## 6. Start Menu Search
+## 6. Software Installed
 
-Verified software installation by locating the application through the Windows Start Menu search.
+Verified the application installed successfully and was ready to launch.
 
-![Start Menu Search](screenshots/06-start-menu-search.png)
+![Software Installed](screenshots/06-software-installed.png)
 
 ---
 
-## 7. Uninstall Application
+## 7. Installed App Verification
 
-Reviewed the Windows application uninstall process.
+Verified Spotify appears in the Installed Apps list.
 
-![Uninstall Application](screenshots/07-uninstall-application.png)
+![Installed App Verification](screenshots/07-install-app-verification.png)
 
 ---
 
 ## 8. Project Complete
 
-Successfully completed the software installation troubleshooting lab and verified proper application management using Windows administrative tools.
+Completed the software installation troubleshooting lab.
 
-![Project Complete](screenshots/08-project-complete.png)
+![Project Complete](screenshots/08-project-final.png)
 
 ---
 
 # Tasks Completed
 
-- ✅ Reviewed installed applications.
-- ✅ Verified application availability.
-- ✅ Demonstrated software installation.
-- ✅ Reviewed application repair and reset options.
-- ✅ Configured default applications.
-- ✅ Verified application search functionality.
-- ✅ Reviewed software uninstall procedures.
-- ✅ Confirmed successful application management.
-- ✅ Documented the troubleshooting workflow.
+- ✅ Opened Installed Apps
+- ✅ Reviewed Windows Apps settings
+- ✅ Installed software from Microsoft Store
+- ✅ Verified successful installation
+- ✅ Reviewed application repair options
+- ✅ Reviewed application reset options
+- ✅ Reviewed default application settings
+- ✅ Verified installed application
+- ✅ Confirmed software launches successfully
+- ✅ Documented troubleshooting steps
 
 ---
 
 # Key Takeaways
 
-- Learned Windows software installation procedures.
-- Practiced application management using Windows Settings.
-- Reviewed software repair and reset options.
-- Verified default application configuration.
-- Practiced software removal procedures.
-- Improved Windows troubleshooting skills.
-- Strengthened Help Desk documentation practices.
-- Built practical experience relevant to Tier 1 Help Desk and Desktop Support roles.
-
----
-
-## Repository Structure
-
-```text
-Darwin-Software-Installation-Troubleshooting-Lab/
-│
-├── README.md
-│
-└── screenshots/
-    ├── 01-installed-apps.png
-    ├── 02-apps-features.png
-    ├── 03-install-new-application.png
-    ├── 04-app-repair-options.png
-    ├── 05-default-apps.png
-    ├── 06-start-menu-search.png
-    ├── 07-uninstall-application.png
-    └── 08-project-complete.png
-```
+- Learned common Windows software installation procedures.
+- Installed applications using Microsoft Store.
+- Verified successful software installation.
+- Reviewed application repair and reset options.
+- Configured and reviewed default application settings.
+- Practiced Tier 1 Help Desk software troubleshooting.
+- Improved Windows application management skills.
 
 ---
 
