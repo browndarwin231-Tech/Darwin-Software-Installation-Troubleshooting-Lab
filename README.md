@@ -66,7 +66,6 @@ Installed Spotify from the Microsoft Store.
 Reviewed the application's Repair, Reset, and Uninstall options.
 
 ![Application Repair Options](screenshot/04-app-repair-options.png)
-
 ---
 
 ## 5. Default Applications
